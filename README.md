@@ -10,5 +10,6 @@
 - python (for virtualenv but... I guess you already have if you want fish to actually works)
 
 ## What's on the screen
-This may be enough :  
+- "T:X", not shown here, stands for the time taken for last commande
+- For the remaining : 
 ![screenshot](http://vps1.brigato.fr/corescripts/site/img/Screenshot2.png)
